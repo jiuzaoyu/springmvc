@@ -13,5 +13,5 @@
        -->
        
    	  <import resource="applicationContext-datasource.xml"/>
-   	  <import resource="applicationContext-datasource55555.xml"/>
+   	  <import resource="applicationContext-datasource66666.xml"/>
 </beans>
